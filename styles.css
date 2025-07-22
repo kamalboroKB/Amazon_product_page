@@ -1,0 +1,91 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.fontP{
+    font-size: 1.5rem;
+}
+
+.body_div{
+    width: 73%;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+
+.main-div{
+    display: flex;
+    margin: 20px 30px;
+    
+}
+
+
+
+.thumbnail{
+    width: 37%;
+    margin-right: 20px;
+
+}
+
+.breadcrumbs{
+    color: #565959;
+    font-size: 1.2em;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 100%;
+}
+
+.product_description{
+    width: 63%;
+    margin-left: 20px;
+    margin-top: -10px;
+
+    
+}
+
+.title {
+    font-size: 2.9rem;
+    font-weight:500;
+    
+}
+
+
+.author {
+    margin-bottom: 20px;
+}
+
+.author_cat{
+    color: #007185;
+    
+}
+
+.star_container{
+    display: flex;
+
+}
+
+.star_images{
+    width: 145px;
+    padding-left: 5px;
+}
+
+.icon_down{
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 6px;
+
+}
+
+.b_font{
+    font-weight: bold;
+}
+
+
+
+
+
+
